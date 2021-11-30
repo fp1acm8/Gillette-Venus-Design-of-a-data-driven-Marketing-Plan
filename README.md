@@ -6,6 +6,8 @@ It exploits some classes and functions we developed in the `modules` folder, in 
 
 The enriched dataset is called `definitivo.csv` and it is stored in the `data` folder.
 
+`pg_businesscase.pdf` is the presentation of the work done and the results achieved during the analysis.
+
 Authors:
 * **Guerranti** Filippo
 * **Marchetti** Andrea
