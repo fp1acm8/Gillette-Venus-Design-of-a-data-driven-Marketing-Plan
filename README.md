@@ -6,7 +6,7 @@ It exploits some classes and functions we developed in the `modules` folder, in 
 
 The enriched dataset is called `definitivo.csv` and it is stored in the `data` folder.
 
-`pg_businesscase.pdf` is the presentation of the work done and the results achieved during the analysis.
+[`pg_businesscase.pdf`](https://github.com/fp1acm8/Gillette-Venus-Design-of-a-data-driven-Marketing-Plan/blob/e12443caf1905d5274f5fa0250ce7b82d0b19044/pg_businesscase.pdf) is the presentation of the work done and the results achieved during the analysis.
 
 Authors:
 * **Guerranti** Filippo
